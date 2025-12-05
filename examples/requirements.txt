@@ -1,0 +1,6 @@
+opencv-python
+python-pptx
+numpy
+moviepy
+openai-whisper
+torch

@@ -7,3 +7,8 @@ temp_slides/
 *.txt
 *.mp4
 !examples/*.mp4
+!examples/*.pptx
+!examples/*.txt
+!examples/*.mp3
+
+
