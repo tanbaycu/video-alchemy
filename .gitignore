@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+temp_slides/
+*.mp3
+*.pptx
+*.txt
+*.mp4
+!examples/*.mp4
