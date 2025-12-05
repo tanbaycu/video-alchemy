@@ -28,9 +28,11 @@ A set of Python tools by **tanbaycu** to process and transform video content.
 
 Detects slides in a video and converts them to a PPTX presentation.
 
-```bash
+```
 python src/video_to_pptx.py input_video.mp4 output.pptx --threshold 2000 --rate 1.0
 ```
+
+> **Tip:** Want to edit your slides like a pro? [Join my Canva team](https://www.canva.com/brand/join?token=KEOsiBib93CIIiZ9BgyaBw&brandingVariant=edu&referrer=team-invite) to get access to premium design tools!
 
 ### 2. Video transcription
 
